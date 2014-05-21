@@ -7,4 +7,4 @@ Changes have been made to the stylesheet so that the bibliography follows the Na
 This file needs to be copied to the correct folder in your Office installation.  On my machine this folder was
 C:\Users\Ed\AppData\Roaming\Microsoft\Bibliography\Style
  
-If it is copied to the correct location the an extra style should appear in the drop down list in the 'Citations & Bibliography' section under the 'References' tab on the tool bar.
+If it is copied to the correct location, an extra style option should appear in the drop down list in the 'Citations & Bibliography' section under the 'References' tab on the tool bar.
