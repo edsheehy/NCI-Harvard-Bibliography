@@ -1,7 +1,7 @@
 NCI-Harvard-Bibliography
 ========================
 
-Here is a modified version of the default Harvard XSLT bibliography stylesheet that comes with Word 2013.
+Here is a modified version of the default Harvard XSLT bibliography stylesheet that comes with Word 2010 and Word 2013.
 Changes have been made to the stylesheet so that the bibliography follows the National College of Ireland's version of the Harvard style.
  
 This file needs to be copied to the correct folder in your Office installation.  On my machine this folder was
