@@ -10,7 +10,7 @@ https://myncistudent.ncirl.ie/library/Library%20PDFs/1st%20Cite%20-Final%20Proof
 This file needs to be copied to the correct folder in your Office installation.  On my machine this folder was
 C:\Users\Ed\AppData\Roaming\Microsoft\Bibliography\Style
  
-If it is copied to the correct location, an extra style option should appear in the drop down list in the 'Citations & Bibliography' section under the 'References' tab on the tool bar.
+If it is copied to the correct location, an extra style option should appear in the drop down list in the 'Citations & Bibliography' section under the 'References' tab on the MS Word tool bar.
 
 *** Warning ***
 Use this stylesheet as a template.  There may be some errors in the format, and you will need to review the output.
