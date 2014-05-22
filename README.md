@@ -15,5 +15,6 @@ Normally the 'AppData' folder is hidden.  I had to change the 'view' settings on
 If it is copied to the correct location, an extra style option should appear in the drop down list in the 'Citations & Bibliography' section under the 'References' tab on the MS Word tool bar.
 
 *** Warning ***
+
 Use this stylesheet as a template.  There may be some errors in the format, and you will need to review the output.
 All feedback is welcome.
