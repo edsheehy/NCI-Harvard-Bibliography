@@ -9,6 +9,8 @@ https://myncistudent.ncirl.ie/library/Library%20PDFs/1st%20Cite%20-Final%20Proof
  
 This file needs to be copied to the correct folder in your Office installation.  On my machine this folder was
 C:\Users\Ed\AppData\Roaming\Microsoft\Bibliography\Style
+
+Normally the 'AppData' folder is hidden.  I had to change the 'view' settings on my 'users' folder to 'show hidden items'.
  
 If it is copied to the correct location, an extra style option should appear in the drop down list in the 'Citations & Bibliography' section under the 'References' tab on the MS Word tool bar.
 
